@@ -1,7 +1,5 @@
 langchain
 deeplake
-openai
-tiktoken
 streamlit
 streamlit_chat
 python-dotenv
@@ -11,3 +9,4 @@ pypdf
 unstructured
 tabulate
 pdf2image
+langchain_community
